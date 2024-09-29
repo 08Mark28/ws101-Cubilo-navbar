@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101-cubilo-navbar/static/css/main.1c810fec.css",
+    "main.js": "/ws101-cubilo-navbar/static/js/main.072afc43.js",
+    "static/media/Forest1.gif": "/ws101-cubilo-navbar/static/media/Forest1.1616f0869127e747851d.gif",
+    "static/media/Green.gif": "/ws101-cubilo-navbar/static/media/Green.e2dbf27104446074279a.gif",
+    "static/media/Fall.gif": "/ws101-cubilo-navbar/static/media/Fall.77327d2d9f5281886902.gif",
+    "index.html": "/ws101-cubilo-navbar/index.html",
+    "main.1c810fec.css.map": "/ws101-cubilo-navbar/static/css/main.1c810fec.css.map",
+    "main.072afc43.js.map": "/ws101-cubilo-navbar/static/js/main.072afc43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c810fec.css",
+    "static/js/main.072afc43.js"
+  ]
+}
